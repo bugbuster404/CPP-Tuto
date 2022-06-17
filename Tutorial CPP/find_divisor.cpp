@@ -9,7 +9,7 @@ int main()
     for (i = 1; i * i < A; i++)
     {
         if (A % i == 0)
-            cout << i << " " << endl;
+            cout << i << endl;
     }
     if (i - (A / i) == 1)
     {
@@ -18,7 +18,7 @@ int main()
     for (; i >= 1; i--)
     {
         if (A % i == 0)
-            cout << A / i << " " << endl;
+            cout << A / i<< endl;
     }
 
     return 0;
