@@ -1,9 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
-// int main()
-// {
-//     cout << "Hello World"; // it's a programme to print Hello world
-// }
+int main()
+{
+    cout << "Hello World"; // it's a programme to print Hello world
+
 
 // int main()
 // {
@@ -129,4 +129,5 @@ using namespace std;
 //     string fullname;
 //     getline(cin, fullname);
 //     cout << fullname;
-// }
+//
+}
